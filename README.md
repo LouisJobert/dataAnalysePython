@@ -1,3 +1,2 @@
 # dataAnalysePython
-Analyse data en Python, avec pour support un texte littéraire.
-Au format Jupyter Notebook
+Analyse data en Python, avec pour support un texte littéraire<br>Au format Jupyter Notebook
